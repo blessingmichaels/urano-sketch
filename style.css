@@ -1,0 +1,249 @@
+body {
+    padding: none;
+    margin: 0px;
+    /* background-color: rgb(136, 5, 5); */
+}
+
+h1 {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+}
+
+p {
+    font-family: "PT serif", sans-serif;
+    color: rgba(11, 22, 43, 1);
+    line-height: 1.2rem;
+}
+
+.nav-bar {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    /* background-color: aqua; */
+    text-align: center;
+    height: 4rem;
+    align-items: center;
+    padding: 0rem 10rem;
+}
+
+.button-one {
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    background-color: rgb(85, 88, 219);
+    font-weight: 700;
+    width: 12rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+
+}
+
+.hero-section {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 10rem;
+    /* background-color: teal; */
+}
+
+.hero-section h1 {
+    color: rgba(11, 22, 43, 1);
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+    margin-top: 7rem;
+
+}
+
+.google-button {
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+.phone {
+    height: 34rem;
+    padding-right: 5.5rem;
+}
+
+.lorem {
+    font-family: "Montserrat", sans-serif;
+    color: rgba(11, 22, 43, 1);
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 10rem;
+    padding-bottom: 2rem;
+}
+
+.p-two {
+    color: #0B162B;
+    font-family: "PT serif", sans-serif;
+    font-size: 0.75rem;
+    opacity: 60%;
+    line-height: 1.2rem;
+}
+
+.rectangle {
+    width: 10.5rem;
+    background-color: #5454D4;
+    border-bottom: 3.5px solid #5454D4;
+}
+
+
+.section-two {
+    display: flex;
+    padding: 0rem 10rem;
+    justify-content: space-between;
+    /* background-color: steelblue; */
+}
+
+.video-section {
+    padding: 4rem 10rem;
+    margin-top: 5rem;
+    background-color: #0B162B;
+}
+
+.span {
+    color: rgba(255, 255, 255, 1);
+    font-family: "PT serif", sans-serif;
+    font-size: 0.7rem;
+    opacity: 60%;
+}
+
+.button-two {
+    margin-top: 1.5rem;
+    background-color: #5454D4;
+    max-width: max-content;
+    padding: 10px 4rem;
+    border-radius: 2px;
+}
+
+.get-started {
+    text-decoration: none;
+    color: white;
+    font-family: "PT serif", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.bg-img {
+    background-image: url(imgurano/Video.jpg);
+    margin-top: 0rem !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    overflow-x: hidden;
+    padding-bottom: 3rem;
+}
+
+.vrb h1 {
+    margin-top: 0px;
+    /* margin-bottom: 20rem; */
+}
+
+.bi {
+    height: 520px;
+}
+
+.vrb {
+     position: relative;
+    top: 25rem;
+    left: 10rem;
+    /* z-index: 1; */
+}
+
+.section-four {
+    margin-top: 7rem;
+    /* background-color: sienna; */
+    padding: 3rem 10rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blank {
+    height: 36rem;
+}
+
+.icons {
+    padding-top: 3rem;
+}
+
+.div-one {
+    display: flex;
+    gap: 6rem;
+    text-align: center;
+}
+
+.ipsum {
+    margin-top: 2rem;
+    padding-bottom: 0px;
+}
+
+.one {
+    margin-top: 2rem;
+}
+
+.last-section {
+    background-color: #0B162B;
+    margin-top: 7rem;
+    text-align: center;
+    padding: 5rem 10rem;
+    margin-bottom: 5rem;
+}
+
+.last-section h1 {
+    font-size: 3rem;
+    margin-bottom: 0px;
+}
+
+.last-section p {
+    color: white;
+    font-size: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+
+.last-get {
+    color: white;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    background-color: #5454D4;
+    max-width: fit-content;
+    padding: 10px 9rem;
+    border-radius: 2px;
+}
+
+.last {
+    margin-top: 5rem;
+    border-top: 1px solid rgba(255, 255, 255, 1);
+    opacity: 50%;
+    display: flex;
+    justify-content: center;
+    gap: 6.2rem;
+}
+
+.div-last {
+    opacity: 70%;
+    padding-top: 4rem;
+}
+
+.brands {
+    justify-content: center;
+    display: flex;
+    gap: 3rem;
+    padding: 2rem 0px;
+    /* background-color: rgb(168, 7, 7); */
+}
+
+.logo {
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.5rem;
+    opacity: 30%;
+}
+
+.brands p {
+    opacity: 50%;
+}
