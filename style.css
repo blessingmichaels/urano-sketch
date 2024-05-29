@@ -629,6 +629,79 @@ p {
 
 @media only screen and (max-width:1280px) and (min-width:901px) {
 
-    
+    .nav-bar {
+        padding: 0rem 5rem;
+    }
 
+    .hero-section {
+        padding: 2rem 4.5rem;
+    }
+    
+    .hero-section h1 {
+        color: rgba(11, 22, 43, 1);
+        font-size: 5vw;
+    
+    }
+
+    .hero-section p {
+        font-size: 2vw;
+        line-height: 3vh;
+    }
+
+    
+    .break {
+        display: none;
+    }
+
+    .break-two {
+        display: block;
+    }
+
+    .phone {
+        height: 34rem;
+        padding-right: 0rem;
+    }
+    
+    .section-two {
+        display: flex;
+        padding: 0rem 5rem;
+        
+    }
+
+    .rectangle {
+        width: 8rem;
+    }
+
+    .video-section {
+        padding: 4rem 5rem;
+    }
+    .vrb {
+        position: relative;
+        top: 11rem;
+        left: 5rem;
+    }
+    .vrb h1 {
+        margin-bottom: 0;
+    }
+    .bi {
+        max-height: 250px;
+    }
+
+    .bg-img {
+        background-size: cover !important;
+        background-position: center;
+    }
+
+    .section-four {
+        padding: 3rem 5rem;
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    .div-one {
+        display: flex;
+        gap: 3rem;
+        text-align: center;
+    }
 }
